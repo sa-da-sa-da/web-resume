@@ -1,0 +1,6 @@
+{
+  "extends": "@yunyoujun",
+  "rules": {
+    "no-undef": "off"
+  }
+}
