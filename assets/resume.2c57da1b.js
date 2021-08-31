@@ -1,0 +1,1 @@
+import{y as a,a as r,c as t,b as e}from"./app.3e7d6b38.js";const s={},n={class:"text-gray-700 dark:text-gray-200"};s.render=function(s,o){const c=a("router-view");return r(),t("main",n,[e(c)])};export{s as default};
