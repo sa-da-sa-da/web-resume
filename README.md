@@ -17,7 +17,7 @@
 
 ## Usage
 
-点击仓库右上角 `Use this template`，或 clone 本项目。
+点击仓库右上角 clone 本项目。
 
 ```bash
 git clone https://github.com/YunYouJun/web-resume
